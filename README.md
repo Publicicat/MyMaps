@@ -1,1 +1,1 @@
-# MyMapsOk
+# MyMaps
